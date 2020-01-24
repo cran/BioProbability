@@ -1,0 +1,8 @@
+#useDynLib(BioProbability)
+importFrom(stats,qnorm)
+importFrom("graphics", "par", "plot")
+export(odds)
+export(odds.ratio)
+export(predictive.value)
+export(relative.risk)
+export(sensitivity.specificity)

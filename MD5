@@ -1,0 +1,16 @@
+ba8e9b0261caadc7cdbb439048418a44 *DESCRIPTION
+18423e72fab130b5f89030a6d62d56b4 *NAMESPACE
+04890dd39c94ae8c154364b56e079432 *R/input1.R
+049798c3de47d372ca76da6f975b2816 *R/input2.R
+e7170ef6682bf91ccf980e0d691e95ae *R/odds.R
+a0b5a4a10c155963981c574caaa27c2b *R/odds.ratio.R
+81897b9b366f5805755c2959c22b0d32 *R/predictive.value.R
+450ca9e70b3df117afbb72c4d3394a3d *R/relative.risk.R
+ee7727e9ffc3ad46faf0101aeaee961d *R/sensitivity.specificity.R
+54511f7dd72afe29bb48f5bcc9406485 *man/input1.Rd
+9b11c6a19b57bddd98e18faa6f2884e7 *man/input2.Rd
+55fb34f83be37db70c37be33b6ecd2f7 *man/odds.Rd
+d1c7e14011cd34c1a0bd43c8824b4143 *man/odds.ratio.Rd
+1b9107bdb5787ea89dd2d2c19c8688b4 *man/predictive.value.Rd
+2158a20adaaa4a89bf2272a8a25b1cee *man/relative.risk.Rd
+ca9f66d9991439924b57763866a793da *man/sensitivity.specificity.Rd
